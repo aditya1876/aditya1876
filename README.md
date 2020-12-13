@@ -17,18 +17,16 @@
     - linkedin
     - github
 
-- My Profile stats
+[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=aditya1876&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=aditya1876&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
-
+<!--
 <a href="">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=aditya1876&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya1876&layout=compact" />
 </a>
-
-- Profile pins
+-->
 
 <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aditya1876&repo=MyArchSetup)](https://github.com/anuraghazra/github-readme-stats)-->
 
@@ -39,7 +37,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditya1876&repo=MyArchSetup" />
 </a>
 
-<!--
-- Top languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya1876&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya1876&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
