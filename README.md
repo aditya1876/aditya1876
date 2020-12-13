@@ -5,7 +5,23 @@
     - I love coding in python
     - I like tinkering with stuff(hardware or software). 
     - I am always in search of new things to learn.
-- 🔭 I’m currently working on AI and home automation
-- 🌱 I’m currently learning AI and ML
-- 👯 I’m looking to collaborate on ML projects
-- 📫 How to reach me: 
+- 🔭 I’m currently working on 
+    - AI projects 
+    - home automation projects
+- 🌱 I’m currently learning 
+    - AI and ML
+- 👯 I’m looking to collaborate on 
+    - ML projects
+- 📫 How to reach me:
+    - dev.to
+    - linkedin
+    - github
+
+- My Profile stats
+[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=aditya1876&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+- Profile pins
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aditya1876&repo=MyArchSetup)](https://github.com/anuraghazra/github-readme-stats)
+
+- Top languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya1876&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
