@@ -1,20 +1,12 @@
-### Hi there 👋
+### Hi there 👋,
+#### I'm Aditya. Welcome to my corner of the web.  
 
-<!--
-**aditya1876/aditya1876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤓 Something about me....
+I love coding in python
+I like tinkering with stuff(hardware or software). 
+I am always in search of new things to learn.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently working on AI and home automation
-- 🌱 I’m currently learning AI and ML
-- 👯 I’m looking to collaborate on ML projects
-- 📫 How to reach me: 
+🔭 I’m currently working on AI and home automation
+🌱 I’m currently learning AI and ML
+👯 I’m looking to collaborate on ML projects
+📫 How to reach me: 
