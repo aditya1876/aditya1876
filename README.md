@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on AI and home automation
+- 🌱 I’m currently learning AI and ML
+- 👯 I’m looking to collaborate on ML projects
+- 📫 How to reach me: 
