@@ -17,7 +17,7 @@
     - linkedin
     - github
 
-[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=aditya1876&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya1876&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya1876&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
