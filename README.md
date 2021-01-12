@@ -13,9 +13,7 @@
 ##### 👯 I’m looking to collaborate on 
     - ML projects
 ##### 📫 How to reach me:
-    - dev.to
-    - linkedin
-    - github
+    - linkedin - www.linkedin.com/in/aditya-namilikonda-a5b18b37
 
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya1876&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
