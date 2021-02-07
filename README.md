@@ -22,8 +22,8 @@
 <a href="https://github.com/aditya1876/CampusPlacementChance">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditya1876&repo=CampusPlacementChance" />
 </a>
-<a href="https://github.com/aditya1876/MyArchSetup">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditya1876&repo=MyArchSetup" />
+<a href="https://github.com/aditya1876/ExerciseTracker_MERN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditya1876&repo=ExerciseTracker_MERN" />
 </a>
 
 <!--Add some more projects and more infomration-->
